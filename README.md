@@ -16,5 +16,7 @@ Learning FULL STACK WEB DEVELOPMENT<br>Learning DSA in JAVA
 ---
 ![](https://visitcount.itsvg.in/api?id=NandanNayak-dev&label=Profile%20Views&color=12&icon=5&pretty=true)
 
+---
+![Profile Views](https://hits.sh/github.com/NandanNayak-dev.svg?style=for-the-badge&label=Profile%20Views&color=blue)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
