@@ -1,5 +1,5 @@
 # 💫 About Me
-Learning FULL STACK WEB DEVELOPMENT<br>Learning DSA in JAVA
+Hey,I'm Nandan Nayak!!
 
 
 ## 🌐 Socials
